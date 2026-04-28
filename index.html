@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>VRC Invite</title>
+</head>
+<body>
+    <h2>Zaproszenie VRChat</h2>
+
+    <input id="nick" placeholder="Wpisz nick">
+    <button onclick="invite()">Zaproś</button>
+
+    <script>
+        function invite() {
+            const nick = document.getElementById("nick").value;
+            alert("Zaproszenie wysłane do: " + nick);
+        }
+    </script>
+</body>
+</html>

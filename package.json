@@ -1,0 +1,24 @@
+{
+  "name": "bot_inviter-sigma26",
+  "version": "1.0.0",
+  "description": "Sigma26 Bot bot do wysyłania zaproszeń na grupe Sigma26",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlikMedi/Bot_Inviter-Sigma26.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/OlikMedi/Bot_Inviter-Sigma26/issues"
+  },
+  "homepage": "https://github.com/OlikMedi/Bot_Inviter-Sigma26#readme",
+  "devDependencies": {
+    "electron": "^41.3.0"
+  }
+}
